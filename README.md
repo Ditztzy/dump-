@@ -1,1 +1,7 @@
-# dump-
+# scrip install
+
+
+
+
+
+# run sc 
